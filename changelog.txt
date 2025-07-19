@@ -1,2 +1,2 @@
-1.0.0
-- Primera Version de InaPet
+1.0.1
+- Se ha agrergado la skin de Riccardo Di Rigo
