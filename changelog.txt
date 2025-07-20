@@ -1,3 +1,2 @@
-1.0.2
-- Se ha agrergado la skin de Bai Long
-- Se ha mejorado la visual de algunas skins
+1.0.3
+- Se ha agrergado una opcion para pausar los popups
