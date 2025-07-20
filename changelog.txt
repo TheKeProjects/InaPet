@@ -1,3 +1,2 @@
-1.0.4
-- Se ha mejorado la opcion para pausar los popups
-- Se ha agrergado una opcion para aumentar o reduir el tamaño del personaje
+1.0.5
+- Se ha mejorado el menu de las skins
