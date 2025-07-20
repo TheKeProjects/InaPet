@@ -1,2 +1,3 @@
-1.0.3
-- Se ha agrergado una opcion para pausar los popups
+1.0.4
+- Se ha mejorado la opcion para pausar los popups
+- Se ha agrergado una opcion para aumentar o reduir el tamaño del personaje
