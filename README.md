@@ -62,13 +62,12 @@ InaPet es una mascota virtual de escritorio que te acompaña mientras trabajas, 
 
 ```
 InaPet/
-├── assets/          # Recursos multimedia
-├── src/             # Código fuente
-│   ├── components/  # Componentes de la aplicación
-│   ├── utils/       # Utilidades y helpers
-│   └── main.py      # Punto de entrada
-├── docs/            # Documentación
-└── skins/           # Skins personalizadas
+├── imagenes/        # Recursos multimedia
+├── musica/          # Skins personalizadas
+├── notas/           # Skins personalizadas
+├── skins/           # Skins personalizadas
+└── inapet.ico         # Skins personalizadas
+└── icon.ico         # Skins personalizadas
 ```
 
 ## 🛠️ Desarrollo
@@ -78,27 +77,9 @@ InaPet/
 - PyGame
 - PyInstaller
 
-### Compilación
-```bash
-# Clona el repositorio
-git clone https://github.com/TheKeProjects/InaPet.git
-
-# Navega al directorio
-cd InaPet
-
-# Instala dependencias
-pip install -r requirements.txt
-
-# Ejecuta en modo desarrollo
-python src/main.py
-
-# Compila para distribución
-pyinstaller --onefile --windowed src/main.py
-```
-
 ## 🤝 Contribuir
 
-¡Las contribuciones son siempre bienvenidas! Por favor, lee las [guías de contribución](CONTRIBUTING.md) antes de enviar un pull request.
+¡Todas las contribuciones son siempre bienvenidas!
 
 1. Haz fork del proyecto
 2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
@@ -118,9 +99,12 @@ Si encuentras algún problema, por favor [crea un issue](https://github.com/TheK
 
 | Versión | Características | Estado |
 | :--- | :--- | :--- |
-| 1.0.2 | Estabilidad mejorada y corrección de errores | ✅ Estable |
-| 1.0.1 | Primer lanzamiento público | ✅ Estable |
-| 0.9.0 | Versión beta con funciones básicas | 🚫 Obsoleta |
+| 1.0.5 | Mejoras en el menú de selección de skins | ✅ Estable |
+| 1.0.4 | Opción para pausar popups y ajustar tamaño del personaje | ✅ Estable |
+| 1.0.3 | Implementación de opción para pausar popups | ✅ Estable |
+| 1.0.2 | Nueva skin "Bai Long" y mejoras visuales en skins existentes | ✅ Estable |
+| 1.0.1 | Adición de skin "Riccardo Di Rigo" | ✅ Estable |
+| 1.0.0 | Versión inicial con funcionalidades básicas | 🚫 Obsoleta |
 
 ## 📞 Soporte
 
