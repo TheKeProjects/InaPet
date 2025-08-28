@@ -53,7 +53,7 @@ InaPet/
 ## 🛠️ Desarrollo
 
 ### Prerrequisitos
-- Python 3.8+
+- Python 3.13+
 - PyGame
 - PyInstaller
 
