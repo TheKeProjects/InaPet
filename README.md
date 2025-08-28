@@ -1,12 +1,9 @@
 # README - InaPet 🐾
 
-![InaPet Banner](https://via.placeholder.com/1200x400/679aad/ffffff?text=InaPet+-+Tu+mascota+virtual+de+escritorio)
-
 <div align="center">
 
 [![Versión](https://img.shields.io/badge/Versión-1.0.5-success)](https://github.com/TheKeProjects/InaPet/releases/latest/download/InaPet_Setup.exe)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows-informational)](https://www.microsoft.com/windows)
-[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 [![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/TheKeProjects/InaPet)
 
 </div>
