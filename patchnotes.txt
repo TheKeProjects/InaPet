@@ -1,0 +1,25 @@
+Versión 1.0.5 de InaPet
+20/7/25
+- Se ha mejorado el menu de las skins
+
+Versión 1.0.4 de InaPet
+20/7/25
+- Se ha mejorado la opcion para pausar los popups
+- Se ha agrergado una opcion para aumentar o reduir el tamaño del personaje
+
+Versión 1.0.3 de InaPet
+20/7/25
+- Se ha agrergado una opcion para pausar los popups
+
+Versión 1.0.2 de InaPet
+20/7/25
+- Se ha agrergado la skin de Bai Long
+- Se ha mejorado la visual de algunas skins
+
+Versión 1.0.1 de InaPet
+19/7/25
+- Se ha agrergado la skin de Riccardo Di Rigo
+
+Versión 1.0.0 de InaPet
+19/7/25
+- Primera versión de InaPet
