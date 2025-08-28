@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Versión](https://img.shields.io/badge/Versión-1.0.2-success)](https://github.com/TheKeProjects/InaPet/releases/latest/download/InaPet_Setup.exe)
+[![Versión](https://img.shields.io/badge/Versión-1.0.5-success)](https://github.com/TheKeProjects/InaPet/releases/latest/download/InaPet_Setup.exe)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows-informational)](https://www.microsoft.com/windows)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 [![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/TheKeProjects/InaPet)
@@ -31,24 +31,6 @@ InaPet es una mascota virtual de escritorio que te acompaña mientras trabajas, 
 - 100 MB de espacio libre en disco
 - Resolución de pantalla mínima: 1280x720
 
-### Instalación
-
-1. **Descarga el instalador**
-   ```bash
-   # Descarga la última versión desde GitHub Releases
-   https://github.com/TheKeProjects/InaPet/releases/latest/download/InaPet_Setup.exe
-   ```
-
-2. **Ejecuta el instalador**
-   - Haz doble clic en `InaPet_Setup.exe`
-   - Sigue las instrucciones en pantalla
-   - ¡InaPet se iniciará automáticamente!
-
-3. **Personaliza tu experiencia**
-   - Haz clic derecho en InaPet para acceder al menú de configuración
-   - Selecciona tu skin favorita
-   - Ajusta la velocidad de movimiento
-
 ## 🎮 Cómo usar InaPet
 
 | Interacción | Resultado |
@@ -62,12 +44,13 @@ InaPet es una mascota virtual de escritorio que te acompaña mientras trabajas, 
 
 ```
 InaPet/
-├── imagenes/        # Recursos multimedia
-├── musica/          # Skins personalizadas
-├── notas/           # Skins personalizadas
+├── imagenes/        # Carpeta de Imagenes
+├── musica/          # Carpeta de Musica
+├── notas/           # Notas personalizadas
 ├── skins/           # Skins personalizadas
-└── inapet.ico         # Skins personalizadas
-└── icon.ico         # Skins personalizadas
+├── icon.ico         # Icono App
+├── inapet.ico       # Icono System Try
+└── InaPet.py        # Archivo Python
 ```
 
 ## 🛠️ Desarrollo
@@ -87,9 +70,6 @@ InaPet/
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 🐛 Reportar problemas
 
@@ -106,19 +86,6 @@ Si encuentras algún problema, por favor [crea un issue](https://github.com/TheK
 | 1.0.1 | Adición de skin "Riccardo Di Rigo" | ✅ Estable |
 | 1.0.0 | Versión inicial con funcionalidades básicas | 🚫 Obsoleta |
 
-## 📞 Soporte
-
-Si necesitas ayuda o tienes preguntas:
-- Revisa la [documentación](docs/)
-- Abre un [issue](https://github.com/TheKeProjects/InaPet/issues)
-- Envía un correo a: soporte@inapet.com
-
-## 🎨 Skins personalizadas
-
-¿Quieres crear tu propia skin para InaPet? Consulta nuestra [guía de skins](docs/SKINS.md) para aprender cómo hacerlo.
-
----
-
 <div align="center">
 
 ### ¿Te gusta InaPet?
@@ -127,6 +94,6 @@ Si necesitas ayuda o tienes preguntas:
 
 [![GitHub stars](https://img.shields.io/github/stars/TheKeProjects/InaPet?style=social)](https://github.com/TheKeProjects/InaPet/stargazers)
 
-*Hecho con ❤️ para la comunidad de desarrolladores*
+*Hecho con ❤️ para la comunidad de Inazuma*
 
 </div>
