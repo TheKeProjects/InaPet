@@ -61,12 +61,7 @@ InaPet/
 
 ¡Todas las contribuciones son siempre bienvenidas!
 
-1. Haz fork del proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
+Puedes hacer un fork del proyecto y abrir un pull request cuando quieras
 
 ## 🐛 Reportar problemas
 
