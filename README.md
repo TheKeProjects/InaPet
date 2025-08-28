@@ -1,4 +1,4 @@
-# README - InaPet 🐾
+# InaPet 🐾⚡
 
 <div align="center">
 
@@ -91,6 +91,6 @@ Si encuentras algún problema, por favor [crea un issue](https://github.com/TheK
 
 [![GitHub stars](https://img.shields.io/github/stars/TheKeProjects/InaPet?style=social)](https://github.com/TheKeProjects/InaPet/stargazers)
 
-*Hecho con ❤️ para la comunidad de Inazuma*
+*Hecho con ❤️ para la comunidad de Inazuma ⚡*
 
 </div>
