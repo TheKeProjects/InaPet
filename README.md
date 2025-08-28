@@ -53,8 +53,7 @@ InaPet/
 ## 🛠️ Desarrollo
 
 ### Source Code de InaPet 
-[AQUI]([https://github.com/TheKeProjects/InaPet/issues](https://raw.githubusercontent.com/TheKeProjects/InaPet/main/Source%20Code%20InaPet.zip
-) Esta el codigo fuente de inapet, para que cualquiera pueda hacer sus cambios y mejorar la app
+[AQUI]([https://raw.githubusercontent.com/TheKeProjects/InaPet/main/Source%20Code%20InaPet.zip]) Esta el codigo fuente de inapet, para que cualquiera pueda hacer sus cambios y mejorar la app
 
 ### Prerrequisitos
 - Python 3.13+
