@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Versión](https://img.shields.io/badge/Versión-1.0.5-success)](https://github.com/TheKeProjects/InaPet/releases/latest/download/InaPet_Setup.exe)
+[![Versión](https://img.shields.io/badge/Versión-1.0.6-success)](https://github.com/TheKeProjects/InaPet/releases/latest/download/InaPet_Setup.exe)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows-informational)](https://www.microsoft.com/windows)
 [![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/TheKeProjects/InaPet)
 
@@ -74,6 +74,7 @@ Si encuentras algún problema, por favor [crea un issue](https://github.com/TheK
 
 | Versión | Características | Estado |
 | :--- | :--- | :--- |
+| 1.0.6 | Se han Agregado Canciones y Se ha mejorado la Interdaz | ✅ Estable |
 | 1.0.5 | Mejoras en el menú de selección de skins | ✅ Estable |
 | 1.0.4 | Opción para pausar popups y ajustar tamaño del personaje | ✅ Estable |
 | 1.0.3 | Implementación de opción para pausar popups | ✅ Estable |
