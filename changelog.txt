@@ -1,2 +1,4 @@
-1.0.5
-- Se ha mejorado el menu de las skins
+1.0.6
+- Se ha agregado musica
+- Se ha mejorado la Interfaz de las Skins
+- Se han separado las Skins del Go del OG
