@@ -1,3 +1,9 @@
+Versión 1.0.7 de InaPet
+29/9/25
+- Se han separado las skins por equipos
+- Se ha mejorado la interfaz
+- Se ha agregado una opción para anclarse al lado del icono de Windows
+
 Versión 1.0.6 de InaPet
 17/9/25
 - Se ha agregado musica
