@@ -42,6 +42,7 @@ InaPet es una mascota virtual de escritorio que te acompaña mientras trabajas, 
 ```
 InaPet/
 ├── imagenes/        # Carpeta de Imagenes
+├── logos/           # Carpeta de Escudos de Equipos
 ├── musica/          # Carpeta de Musica
 ├── notas/           # Notas personalizadas
 ├── skins/           # Skins personalizadas
