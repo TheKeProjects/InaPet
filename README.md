@@ -74,6 +74,7 @@ Si encuentras algún problema, por favor [crea un issue](https://github.com/TheK
 
 | Versión | Características | Estado |
 | :--- | :--- | :--- |
+| 1.0.7 | Skins organizadas por equipos, interfaz mejorada y opción de anclaje junto al icono de Windows | ✅ Estable |
 | 1.0.6 | Se han Agregado Canciones y Se ha mejorado la Interdaz | ✅ Estable |
 | 1.0.5 | Mejoras en el menú de selección de skins | ✅ Estable |
 | 1.0.4 | Opción para pausar popups y ajustar tamaño del personaje | ✅ Estable |
