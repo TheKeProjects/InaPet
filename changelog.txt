@@ -1,4 +1,4 @@
-1.0.6
-- Se ha agregado musica
-- Se ha mejorado la Interfaz de las Skins
-- Se han separado las Skins del Go del OG
+1.0.7
+- Se han separado las skins por equipos
+- Se ha mejorado la interfaz
+- Se ha agregado una opción para anclarse al lado del icono de Windows
