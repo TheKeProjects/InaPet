@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Versión](https://img.shields.io/badge/Versión-1.0.7-success)](https://github.com/TheKeProjects/InaPet/releases/latest/download/InaPet_Setup.exe)
+[![Versión](https://img.shields.io/badge/Versión-1.0.8-success)](https://github.com/TheKeProjects/InaPet/releases/latest/download/InaPet_Setup.exe)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows-informational)](https://www.microsoft.com/windows)
 [![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/TheKeProjects/InaPet)
 
@@ -48,7 +48,8 @@ InaPet/
 ├── skins/           # Skins personalizadas
 ├── icon.ico         # Icono App
 ├── inapet.ico       # Icono System Try
-└── InaPet.py        # Archivo Python
+├── InaPet.py        # Archivo Python
+└── nombres.txt      # Traducciones de Nombres
 ```
 
 ## 🛠️ Desarrollo
@@ -75,6 +76,7 @@ Si encuentras algún problema, por favor [crea un issue](https://github.com/TheK
 
 | Versión | Características | Estado |
 | :--- | :--- | :--- |
+| 1.0.8 | Se añadieron nuevos Miximax, skins, menú de jugadores con variaciones y opción de nombres JP/EU | ✅ Estable |
 | 1.0.7 | Skins organizadas, interfaz mejorada y opción de anclaje junto al icono de Windows | ✅ Estable |
 | 1.0.6 | Se han Agregado Canciones y Se ha mejorado la Interdaz | ✅ Estable |
 | 1.0.5 | Mejoras en el menú de selección de skins | ✅ Estable |
