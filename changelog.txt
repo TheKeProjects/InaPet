@@ -1,4 +1,5 @@
-1.0.7
-- Se han separado las skins por equipos
-- Se ha mejorado la interfaz
-- Se ha agregado una opción para anclarse al lado del icono de Windows
+1.0.8
+- Se han agregado varios Miximax
+- Se ha agregado la skin de Aitor, Arion, Sol y Gabi 
+- Se ha añadido un menú para ver todos los jugadores y sus variaciones
+- Se ha implementado una opción para usar nombres japones o europeos
