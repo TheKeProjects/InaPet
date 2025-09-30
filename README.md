@@ -34,7 +34,7 @@ InaPet es una mascota virtual de escritorio que te acompaña mientras trabajas, 
 | :--- | :--- |
 | **Clic derecho** | Abre el menú de configuración |
 | **Arrastrar** | Mueve a InaPet por la pantalla |
-| **Doble clic** | Abre archivos aleatorios de tus carpetas |
+| **Doble clic** | Abre archivos aleatorios de la aplicacion |
 | **Minimizar** | Se oculta en la bandeja del sistema |
 
 ## 📦 Estructura del proyecto
