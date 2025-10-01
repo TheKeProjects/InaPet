@@ -1,5 +1,3 @@
-1.0.8
-- Se han agregado varios Miximax
-- Se ha agregado la skin de Aitor, Arion, Sol y Gabi 
-- Se ha añadido un menú para ver todos los jugadores y sus variaciones
-- Se ha implementado una opción para usar nombres japones o europeos
+1.1.0
+- Se ha implementado una opcion de sugerencias de skins, ira todo a un canal de discord para devs!
+- Se ha mejorado y dividido el codigo
