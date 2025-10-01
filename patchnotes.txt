@@ -1,7 +1,7 @@
 Versión 1.1.0 de InaPet
 01/10/25
-- Se ha implementado una opcion de sugerencias de skins, ira todo a un canal de discord para devs!
-- Se ha mejorado y dividido el codigo
+- Se ha implementado una opción de sugerencias de skins, ira todo a un canal de Discord para Devs!
+- Se ha mejorado y dividido el código
 
 Versión 1.0.8 de InaPet
 30/9/25
