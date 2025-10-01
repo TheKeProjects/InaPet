@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Versión](https://img.shields.io/badge/Versión-1.0.8-success)](https://github.com/TheKeProjects/InaPet/releases/latest/download/InaPet_Setup.exe)
+[![Versión](https://img.shields.io/badge/Versión-1.1.0-success)](https://github.com/TheKeProjects/InaPet/releases/latest/download/InaPet_Setup.exe)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows-informational)](https://www.microsoft.com/windows)
 [![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)](https://github.com/TheKeProjects/InaPet)
 
@@ -41,15 +41,24 @@ InaPet es una mascota virtual de escritorio que te acompaña mientras trabajas, 
 
 ```
 InaPet/
-├── imagenes/        # Carpeta de Imagenes
-├── logos/           # Carpeta de Escudos de Equipos
-├── musica/          # Carpeta de Musica
-├── notas/           # Notas personalizadas
-├── skins/           # Skins personalizadas
-├── icon.ico         # Icono App
-├── inapet.ico       # Icono System Try
-├── InaPet.py        # Archivo Python
-└── nombres.txt      # Traducciones de Nombres
+├── imagenes/                # Carpeta de Imagenes
+├── logos/                   # Carpeta de Escudos de Equipos
+├── musica/                  # Carpeta de Musica
+├── notas/                   # Notas personalizadas
+├── skins/                   # Skins personalizadas
+├── animation_manager.py     # Codigo de Animaciones
+├── config_manager.py        # Codigo de Configuraciones
+├── discord_integration.py   # Envio de Sugerencias a Discord
+├── file_manager.py          # Sistema de Archivos
+├── icon.ico                 # Icono App
+├── inapet.ico               # Icono System Try
+├── InaPet.py                # Archivo Principal
+├── music_manager.py         # Codigo de Musica
+├── nombres.txt              # Traducciones de Nombres
+├── skin_manager.py          # Codigo de Skins
+├── system_integration.py    # Codigo de Movimiento y Sistema
+├── ui_manager.py            # Codigo de Interfaz
+└── update_manager.py        # Codigo de Actualizaciones
 ```
 
 ## 🛠️ Desarrollo
@@ -74,8 +83,16 @@ Si encuentras algún problema, por favor [crea un issue](https://github.com/TheK
 
 ## 🌟 Versiones
 
+### 🚀 1.1.0 BIG UPDATE
+Esta actualización marca un gran salto en el proyecto:
+- 🔹 Se implementó un **sistema de sugerencias de skins**, donde los usuarios podrán enviar skins que echan en falta y estas llegarán directamente a un canal privado de **Discord para los desarrolladores**.
+- 🔹 El código ha sido **reorganizado y dividido en módulos**, lo que mejora la legibilidad, facilita el mantenimiento y abre la puerta a futuras expansiones de forma más limpia y eficiente para futuras actualizaciones!
+
+---
+
 | Versión | Características | Estado |
 | :--- | :--- | :--- |
+| 1.1.0 | Se agregó un sistema de sugerencias de skins con envío a Discord (a los Devs) y se optimizó y dividió el código | ✅ Estable |
 | 1.0.8 | Se añadieron nuevos Miximax, skins, menú de jugadores con variaciones y opción de nombres JP/EU | ✅ Estable |
 | 1.0.7 | Skins organizadas, interfaz mejorada y opción de anclaje junto al icono de Windows | ✅ Estable |
 | 1.0.6 | Se han Agregado Canciones y Se ha mejorado la Interdaz | ✅ Estable |
