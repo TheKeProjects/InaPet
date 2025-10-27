@@ -61,22 +61,6 @@ InaPet/
 └── update_manager.py        # Codigo de Actualizaciones
 ```
 
-## 🛠️ Desarrollo
-
-### Source Code de InaPet 
-[AQUI](https://raw.githubusercontent.com/TheKeProjects/InaPet/main/InaPet.zip) Esta el codigo fuente de inapet, para que cualquiera pueda hacer sus cambios y mejorar la app
-
-### Prerrequisitos
-- Python 3.13+
-- PyGame
-- PyInstaller
-
-## 🤝 Contribuir
-
-¡Todas las contribuciones son siempre bienvenidas!
-
-Puedes hacer un fork del proyecto y abrir un pull request cuando quieras
-
 ## 🐛 Reportar problemas
 
 Si encuentras algún problema, por favor [crea un issue](https://github.com/TheKeProjects/InaPet/issues) en GitHub con la mayor información posible.
